@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Ramin 👋
 
-<!--
-**raminamoly/raminamoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Developer focused on AI, backend systems, and enterprise software.
 
-Here are some ideas to get you started:
+## 🚀 What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- .NET 8 / .NET 10
+- ASP.NET Core
+- Blazor
+- Semantic Kernel
+- OpenAI APIs
+- SQL Server
+- Qdrant
+- Clean Architecture
+
+---
+
+## 🧠 Current Focus
+
+- AI Agent Systems
+- RAG Architectures
+- On-Prem AI Solutions
+- Enterprise AI Platforms
+
+---
+
+## 🏗️ Featured Projects
+
+### Enterprise AI Agent Platform
+AI platform built with:
+- Semantic Kernel
+- Hybrid Search
+- Blazor UI
+- SQL + Vector Database
+
+### DotNetEngineeringLab
+Repository for learning and practicing:
+- .NET
+- ASP.NET Core
+- Design Patterns
+- Architecture
+- Testing
+
+---
+
+## 📚 Currently Learning
+
+- Multi-Agent AI Systems
+- LLMOps
+- AI Infrastructure
+- Advanced .NET Architecture
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/raminamoly
+
+---
+
+> Building modern AI systems with .NET.
